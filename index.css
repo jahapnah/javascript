@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: black;
+  width: 100vw;
+  height: 56px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+ul {
+  list-style: none;
+  padding-right: 30px;
+}
+
+ul li {
+  display: inline;
+  padding: 12px;
+}
+
+ul li:hover {
+  color: rgb(35, 191, 35);
+}
+
+button {
+  height: 20px;
+  width: 90px;
+  background-color: rgb(35, 191, 35);
+  border: none;
+  border-radius: 20px;
+}
+.button {
+  padding-right: 30px;
+}
+
+button:hover {
+  background-color: rgba(35, 191, 35, 0.889);
+}
