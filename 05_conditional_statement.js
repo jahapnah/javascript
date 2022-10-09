@@ -1,7 +1,7 @@
 
 
 
-/*let a = prompt("What's your name dear ? ");
+let a = prompt("What's your name dear ? ");
 console.log(typeof a);
 a = Number.parseInt(a) // converting the string to number
 console.log(typeof a)
@@ -15,7 +15,7 @@ if (a>=18){
 else{
     alert("This is not a valid age")
 }
-*/
+
 
 
 //IF ELSE ELSE IF STATEMENT
